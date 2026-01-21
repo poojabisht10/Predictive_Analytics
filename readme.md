@@ -105,7 +105,6 @@ This project demonstrates real-world data preprocessing, parameterized feature t
 
 ## 📂 Repository Structure
 
-.  
-├── main.py  
-├── pdf_plot.png  
-└── README.md 
+1. main.py  
+2. pdf_plot.png 
+3. README.md 
